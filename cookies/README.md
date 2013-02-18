@@ -6,7 +6,7 @@ viscosity. 1 cup = 237 mL
 
 Group 1:
 
-* butter: 1 cup
+* butter: 1 cup, microwaved
 * brown sugar: 0.67 cup, packed
 * banana: 1
 
