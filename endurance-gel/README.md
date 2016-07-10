@@ -2,8 +2,8 @@ Endurance gel
 =============
 
 The composition of this gel is similar to Tailwind.
-It is nearly twice as salty as Gatorade and most
-other sports drinks and gels.
+It is nearly twice as salty as Gatorade,
+for a given amount of carbohydrates.
 
 * approximate fructose:glucose ratio: 1:5
 * approximate potassium:sodium ratio: 1:4
