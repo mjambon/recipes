@@ -5,7 +5,7 @@ The composition of this gel is similar to Tailwind.
 It is nearly twice as salty as Gatorade and most
 other sports drinks and gels.
 
-* approximate fructose:glucose ratio: 1:6
+* approximate fructose:glucose ratio: 1:5
 * approximate potassium:sodium ratio: 1:4
 
 For 10 servings of 30 mL each:
