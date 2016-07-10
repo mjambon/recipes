@@ -10,7 +10,8 @@ other sports drinks and gels.
 
 For 10 servings of 30 mL each:
 
-* 150 mL caramel sauce (Ghirardelli or Torani)
+* 150 mL caramel sauce (high-fructose corn syrup with about 40 mg of
+  sodium per 15 mL; Ghirardelli or Torani)
 * 150 mL light corn syrup (Karo)
 * 1500 mg salt (sodium chloride)
 * 1500 mg light salt (half sodium chloride, half potassium chloride; Morton)
