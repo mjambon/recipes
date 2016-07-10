@@ -8,7 +8,7 @@ other sports drinks and gels.
 * approximate fructose:glucose ratio: 1:5
 * approximate potassium:sodium ratio: 1:4
 
-For 10 servings of 30 mL each:
+For 10 servings of 30 mL each corresponding to standard gel packets:
 
 * 150 mL caramel sauce (high-fructose corn syrup with about 40 mg of
   sodium per 15 mL; Ghirardelli or Torani)
