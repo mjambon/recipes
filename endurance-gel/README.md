@@ -26,3 +26,5 @@ Preparation:
 
 Pour the liquids into the measuring cup. Weigh the salts, add to the
 liquid, mix, pour into the flasks.
+
+![Finished product in Hammer flasks](endurance-gel.jpg)
