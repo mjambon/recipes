@@ -1,8 +1,6 @@
 Crème brûlée
 ==
 
-TODO: try reducing sugar amount
-
 This recipe is easy and fast if you have the right tools:
 
 * Ramekins or small bowls and a way to create a bain-marie in the
@@ -19,7 +17,7 @@ Ingredients:
 --
 
 * 3 egg yolks
-* 1/2 cup sugar (110 g) and some more for the caramel crust.
+* 1/3 cup sugar (70 g) and some more for the caramel crust.
 * 1/2 quart heavy whipping cream (250 mL)
 * 1/2 tbsp vanilla extract
 
