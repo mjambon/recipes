@@ -45,3 +45,13 @@ more. Right before serving, cover each ramekin with granulated sugar. Use
 brûlées remain cool. For best results, wait 5-10 minutes until the
 powdered sugar is moist before starting the burning process, otherwise
 the melted sugar concentrates into droplets.
+
+Chocolate variant
+--
+
+Use 60 g of 85%-cocoa chocolate (such as Signature Select brand found
+at Safeway) in addition to the other ingredients. Reduce sugar amount
+to 50 g or half a cup to compensate for the sugar from the chocolate.
+
+Melt the chocolate without burning it and incorporate it into egg yolk
+and sugar mix. Then follow the usual recipe.
