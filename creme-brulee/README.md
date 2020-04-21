@@ -51,7 +51,7 @@ Chocolate variant
 
 Use 60 g of 85%-cocoa chocolate (such as Signature Select brand found
 at Safeway) in addition to the other ingredients. Reduce sugar amount
-to 50 g or half a cup to compensate for the sugar from the chocolate.
+to 50 g or 1/4 cup to compensate for the sugar from the chocolate.
 
 Melt the chocolate without burning it and incorporate it into egg yolk
 and sugar mix. Then follow the usual recipe.
