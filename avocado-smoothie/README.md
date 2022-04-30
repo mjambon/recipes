@@ -9,7 +9,7 @@ Ingredients for one smoothie
 - 4 ice cubes
 - 1/2 cup (120 mL) water
 
-The actual proportions work well for me with a Hass avocado, the kind
+These proportions work well for me with a Hass avocado, the kind
 and size most commonly found in California grocery stores. The ice
 cubes are assumed to come from a standard ice cube tray.
 
