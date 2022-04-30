@@ -13,6 +13,9 @@ The actual proportions work well for me with a Hass avocado, the kind
 and size most commonly found in California grocery stores. The ice
 cubes are assumed to come from a standard ice cube tray.
 
+Sweetened condensed milk is sold in cans at Walmart:
+![image](https://user-images.githubusercontent.com/343265/166102099-7391eba9-d178-45e4-aae9-263deea70828.png)
+
 Instructions
 --
 
