@@ -14,9 +14,12 @@ Far aux pruneaux
 1. Faire macérer les pruneaux dans le rhum.
 2. Allumer le four sur 200°C ou 400°F.
 3. Beurrer le moule.
-4. Mélanger les autres ingrédients dans un bol.
+4. Mélanger les autres ingrédients dans un bol. Pour éviter les
+   grumeaux, mélanger tout sauf le lait puis bien touiller avec un
+   fouet avant de mettre le lait.
 5. Verser la moitié de la mixture dans le moule. Y mettre les
    pruneaux. Verser le reste de la mixture en essayant de ne pas trop
-   éparpiller les pruneaux.
+   éparpiller les pruneaux. L'idée est de bien répartir les pruneaux
+   tout en assurant qu'ils ne colleront pas au fond du plat.
 6. Enfourner et laisser cuire 30 min puis éteindre le four sans ouvrir
    la porte et laisser le plat 30 min de plus dans le four éteint.
